@@ -5529,7 +5529,7 @@ Bitte überprüfen Sie ob Sie die Berechtigung haben zu diesem gerät zu schreib
     <message>
         <location filename="../../../src/keyboard/virtualkeypushbutton.cpp" line="137"/>
         <source>PGUP</source>
-        <translation>Bild rauf</translation>
+        <translation>Bild &lt;html&gt;&amp;darr;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/keyboard/virtualkeypushbutton.cpp" line="138"/>
