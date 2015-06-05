@@ -5202,7 +5202,7 @@ Bitte überprüfen Sie ob Sie die Berechtigung haben zu diesem gerät zu schreib
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="225"/>
         <source>PgDn</source>
-        <translation type="unfinished">Bild &lt;html&gt;&amp;darr;&lt;/html&gt;</translation>
+        <translation>Bild &lt;html&gt;&amp;darr;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="227"/>
