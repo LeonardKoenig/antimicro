@@ -5172,7 +5172,7 @@ Bitte überprüfen Sie ob Sie die Berechtigung haben zu diesem gerät zu schreib
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="219"/>
         <source>PrtSc</source>
-        <translation>Drucken</translation>
+        <translation>Druck</translation>
     </message>
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="220"/>
@@ -5187,7 +5187,7 @@ Bitte überprüfen Sie ob Sie die Berechtigung haben zu diesem gerät zu schreib
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="222"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Pos1</translation>
     </message>
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="223"/>
@@ -5197,12 +5197,12 @@ Bitte überprüfen Sie ob Sie die Berechtigung haben zu diesem gerät zu schreib
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="224"/>
         <source>PgUp</source>
-        <translation>Bild rauf</translation>
+        <translation>Bild ^</translation>
     </message>
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="225"/>
         <source>PgDn</source>
-        <translation>Bild runter</translation>
+        <translation type="unfinished">Bild &lt;html&gt;&amp;darr;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/uinputhelper.cpp" line="227"/>
